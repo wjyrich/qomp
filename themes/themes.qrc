@@ -1,0 +1,42 @@
+<RCC>
+    <qresource prefix="/">
+        <file>themes/black.thm</file>
+        <file>themes/green.thm</file>
+        <file>themes/green/add.png</file>
+        <file>themes/green/arrow-down.png</file>
+        <file>themes/green/arrow-up.png</file>
+        <file>themes/green/branch-closed.png</file>
+        <file>themes/green/bugreport.png</file>
+        <file>themes/green/cancel.png</file>
+        <file>themes/green/check.png</file>
+        <file>themes/green/close.png</file>
+        <file>themes/green/combo-down.png</file>
+        <file>themes/green/combo-up.png</file>
+        <file>themes/green/delete.png</file>
+        <file>themes/green/help.png</file>
+        <file>themes/green/home.png</file>
+        <file>themes/green/info.png</file>
+        <file>themes/green/linear.png</file>
+        <file>themes/green/load.png</file>
+        <file>themes/green/mute.png</file>
+        <file>themes/green/next.png</file>
+        <file>themes/green/ok.png</file>
+        <file>themes/green/options.png</file>
+        <file>themes/green/pause.png</file>
+        <file>themes/green/play.png</file>
+        <file>themes/green/prev.png</file>
+        <file>themes/green/random.png</file>
+        <file>themes/green/repeat.png</file>
+        <file>themes/green/save.png</file>
+        <file>themes/green/search.png</file>
+        <file>themes/green/stop.png</file>
+        <file>themes/green/toggle.png</file>
+        <file>themes/green/updates.png</file>
+        <file>themes/green/volume.png</file>
+        <file>themes/green/window_close.png</file>
+        <file>themes/green/window_minimize.png</file>
+        <file>themes/green/window_maximize.png</file>
+        <file>themes/green/window_restore.png</file>
+        <file>themes/native_linux.thm</file>
+    </qresource>
+</RCC>

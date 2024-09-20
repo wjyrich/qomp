@@ -1,0 +1,56 @@
+/*
+NativeIcons {
+add: list-add;
+arrow-down: arrow-down;
+arrow-left: arrow-left;
+arrow-up: arrow-up;
+branch-closed: arrow-right;
+branch-open: arrow-down;
+bugreport: tools-report-bug;
+cancel: dialog-cancel;
+check: checkbox;
+close :dialog-close;
+delete: edit-delete;
+folder: folder;
+help: help-about;
+home: go-home;
+info: documentinfo;
+linear: dialog-memory;
+load: document-open;
+mute: audio-volume-muted;
+next: media-seek-forward;
+ok: dialog-ok;
+options: document-properties;
+pause: media-playback-pause;
+play: media-playback-start;
+prev: media-seek-backward;
+random: media-playlist-shuffle;
+repeat: media-playlist-repeat;
+save: document-save;
+search: edit-find;
+stop: media-playback-stop;
+toggle: window;
+tune: flag-green;
+tune_disabled: flag;
+updates: view-refresh;
+volume: audio-volume-high;
+qomp_pause: qomp-pause-panel;
+qomp_play: qomp-play-panel;
+qomp_stop: qomp-stop-panel;
+}
+*/
+
+QompPlaylistView {
+    font-size: 12px;
+    font-family: "Noto Sans";
+}
+
+QLCDNumber{
+    border: none;
+}
+
+QToolButton {
+    qproperty-iconSize: 22px;
+    width: 28px;
+    height: 28px;
+}
