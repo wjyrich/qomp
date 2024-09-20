@@ -5,12 +5,7 @@ OBJECTS_DIR = .obj
 UI_DIR = .ui
 RCC_DIR = .rcc
 
-INCLUDEPATH += $$UI_DIR $$MOC_DIR $$RCC_DIR
-
-
-isEmpty(PREFIX) {
-    PREFIX = /usr/local
-}
+INCLUDEPATH += $$UI_DIR $$MOC_DIR $$RCC_DIR  $$PREFIX/include
 
 BINDIR = $$PREFIX/bin
 DATADIR = $$PREFIX/share/qomp
